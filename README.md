@@ -1,1 +1,1 @@
-# adventOfCode22
+# vamo a hacer el challenge https://adventofcode.com/2022/day/1
